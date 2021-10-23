@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @udayDarbar
 - 👀 I’m interested in project's based on python
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on sowtwer and app builud
+- 🌱 I’m currently learning unity
+- 💞️ I’m looking to collaborate  builuding project's
 - 📫 How to reach me udayrathodsocial@gmail.com
 
 <!---
