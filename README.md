@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @udayDarbar
-- 👀 I’m interested in project's based on fluuter ,.net
+- 👀 I’m interested in project's based on flutter ,.net
 - 🌱 I’m currently learning at uni
 - 💞️ I’m looking to collaborate  builuding project's
 - 📫 How to reach me udayrathodsocial@gmail.com
