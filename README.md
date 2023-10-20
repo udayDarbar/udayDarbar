@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @udayDarbar
+- 👋 Hi, I’m @uday
 - 👀 I’m interested in project's based on flutter ,.net
-- 🌱 I’m currently learning at uni
+- 🌱 I’m currently learning at University 
 - 💞️ I’m looking to collaborate  builuding project's
 - 📫 How to reach me udayrathodsocial@gmail.com
 
