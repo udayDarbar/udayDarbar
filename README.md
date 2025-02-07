@@ -47,7 +47,7 @@ A traffic and view generation bot to automate requests for specified URLs, lever
 
 ## 📬 How to Reach Me
 
-- **Email:** [uday.darbar@example.com](mailto:uday.darbar@example.com)
+- **Email:** [udayrathodsocial@gmail.com](mailto:udayrathodsocial@example.com)
 - **LinkedIn:** [Uday Darbar](https://www.linkedin.com/in/udaydarbar/)
 - **GitHub:** [@udayDarbar](https://github.com/udayDarbar)
 
