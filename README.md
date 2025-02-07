@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Uday Darbar!
+# 👋 Hi, I'm Uday!
 
 Welcome to my GitHub profile! I'm a passionate developer with interests in game development, machine learning, web scraping, and building tools that make an impact. I enjoy exploring new technologies and creating projects that solve real-world problems.
 
