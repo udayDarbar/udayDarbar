@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Uday!
 
-I'm **Uday Sinh R. Rathod**, a passionate developer and Master's student specializing in machine learning, front-end development, and data visualization. I love exploring new technologies and creating projects that solve real-world problems. Currently, I'm a Research Assistant at Louisiana State University in Shreveport, working on cutting-edge projects in computer vision and healthcare monitoring.
+I'm **UdayR. Rathod**, a passionate developer and Master's student specializing in machine learning, front-end development, and data visualization. I love exploring new technologies and creating projects that solve real-world problems. Currently, I'm a Research Assistant at Louisiana State University in Shreveport, working on cutting-edge projects in computer vision and healthcare monitoring.
 
 ---
 
@@ -90,7 +90,7 @@ Project IDX User, 11 Weeks of Android, Compose Camp Participant, Android Basics 
 - **LinkedIn:** [Uday Darbar](https://www.linkedin.com/in/udaydarbar/)
 - **GitHub:** [@udayDarbar](https://github.com/udayDarbar)
 - **Location:** Shreveport, LA, USA  
-- **Phone:** +1 (812) 617-5653
+
 
 ---
 
